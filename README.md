@@ -1,5 +1,7 @@
 # Movie-Watchlist
 
+Чтобы появились картинки используйте vpn.
+
 ## Run
 
 cd client   
